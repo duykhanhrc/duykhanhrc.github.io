@@ -1,0 +1,19 @@
+baseURL = "https://duykhanhrc.github.io"
+languageCode = "en-us"
+title = "DK Mentoring"
+theme = "hugo-theme-dream"
+paginate = 5000 #frontpage pagination
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  header_image = "images/main_go_wideandtall_darklayer.jpeg"
+  title = "DK Mentoring"
+  slogan = "$ grep -rni \"The how's and why's\" ."
+  SEOTitle = "Khanh Pham Blog"
+  keyword = "Khanh Pham, DKMentoring, TOEIC, Azure, Developer, Anh"
+ 
+  
