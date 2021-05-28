@@ -1,19 +1,83 @@
-baseURL = "https://duykhanhrc.github.io"
-languageCode = "en-us"
-title = "DK Mentoring"
+baseurl = "https://duykhanhrc.github.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Hugo Theme Dream"
 theme = "hugo-theme-dream"
-paginate = 5000 #frontpage pagination
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+# copyright = ""
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
 
 [params]
-  header_image = "images/main_go_wideandtall_darklayer.jpeg"
-  title = "DK Mentoring"
-  slogan = "$ grep -rni \"The how's and why's\" ."
-  SEOTitle = "Khanh Pham Blog"
-  keyword = "Khanh Pham, DKMentoring, TOEIC, Azure, Developer, Anh"
- 
-  
+  background = "#f7f7f7"
+  # backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  # dark mode
+  # defaultDark = true
+  # backgroundDark = "black"
+  # backgroundImageDark = "/me/background-dark.jpg"
+  # darkLinkColor = "darkseagreen"
+  # darkNav = true
+  # dark404 = true
+
+  author = "Yue Yang"
+  # description = ""
+  avatar = "/img/avatar.jpeg"
+  headerTitle = "Hugo Theme Dream"
+  motto = "Motto"
+  # maxTags = 5
+  # categoriesLimitInHeader = 6 # deprecated
+  # headerBottomText = "" # deprecated
+
+  # footerBottomText = ""
+
+  # rss = true
+
+  # utterancesRepo = ""
+
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
+
+  email = "g1enyy0ung@gmail.com"
+  # twitter = ""
+  # facebook = ""
+  # instagram = ""
+  # mastodon = ""
+  # linkedin = ""
+  # github = ""
+  # stackoverflow = ""
+  # codepen = ""
+
+  siteStartYear = 2016
+
+  # favicon = "/favicon.ico"
+
+  # highlightjs = true
+  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  # highlightjsExtraLanguages = ["ocaml"]
+  # highlightjsTheme = "gruvbox-light"
+  # highlightjsThemeDark = "gruvbox-dark"
+
+  # search
+  # enableSearch = true
+
+  # options
+  # showSummaryCoverInPost = true
+  # hasTwitterEmbed = true
+  # reversePostAndAside = true
+  # shareInAside = true
+  # fixedNav = true
+
+  # [params.advanced]
+  #   customCSS = ["css/custom.css"]
+  #   customJS = []
+
+  # [params.experimental]
+  #   jsDate = true
+  #   jsDateFormat = "yyyy年MM月dd日"
