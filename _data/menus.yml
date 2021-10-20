@@ -1,0 +1,44 @@
+# Top Menu
+topmenu:
+
+- title: Trang Chủ
+  url: ""
+
+- title: Khóa Học
+  url: "courses/"
+
+- title: Mentor
+  url: "about/"
+
+# - title: Donate
+#   url: "donate/"
+
+# - title: Blog
+#   url: ""
+
+- title: Liên Hệ
+  url: "contact/"
+
+# - title: Get this theme  
+#   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+#   class: "ml-2 btn btn-dark text-white px-3"
+#   external: true
+
+# Footer Menu
+footermenu:
+
+- title: Trang Chủ
+  url: ""
+
+# - title: Privacy Policy
+#   url: "privacy-policy/"
+
+- title: Mentor
+  url: "about/"
+
+- title: Liên Hệ
+  url: "contact/"
+
+# - title: Download
+#   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+#   external: true

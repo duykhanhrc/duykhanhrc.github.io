@@ -1,0 +1,20 @@
+<!-- begin post -->
+<div class="card">
+    <a href="{{ course.url | absolute_url }}">
+        {% if course.image %} <img class="rounded mb-4" style="height: 16vh;" src="{{ course.baseurl }}/{{ course.image }}" alt="{{ course.title }}"> {% endif %}
+    </a>
+    <div class="card-block">
+        <h2 class="card-title h4 serif-font"><a href="{{ course.url | absolute_url }}">{{ course.title }}</a></h2>
+        <p class="card-text text-muted">{{ course.mentor }}</p>
+        <p style="
+            text-align: right;
+            margin-top: -1.25rem;
+            font-size: 1.25rem;
+            color: #363636;
+            font-weight: 600;
+            line-height: 1.125;
+        ">{{ course.price }}
+        <sub style="top: -0.5em;">đ</sub></p>
+    </div>
+</div>
+<!-- end post -->
