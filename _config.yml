@@ -2,8 +2,8 @@ title: "Automation Test"
 email: duykhanhrc@gmail.com
 timezone: UTC
 url: "https://duykhanhrc.github.io"
-baseurl: "/automation-test"
-destination: ./docs
+baseurl: ""
+# destination: ./docs
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
