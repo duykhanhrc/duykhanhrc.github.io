@@ -1,0 +1,105 @@
+[0m2021.10.21 21:16:23 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\01 GCS exp\37_MyProjects\07_ownbusiness\04_automation\code\.metals\lsp.trace.json[0m
+Exception in thread "main" java.lang.RuntimeException: Couldn't find pwsh.exe or powershell.exe on path or in default system locations
+	at dev.dirs.Util.windowsFallback(Util.java:284)
+	at dev.dirs.Util.getWinDirs(Util.java:166)
+	at dev.dirs.ProjectDirectories.fromPath(ProjectDirectories.java:255)
+	at scala.meta.internal.bsp.BspServers$.globalInstallDirectories(BspServers.scala:165)
+	at scala.meta.internal.metals.MetalsLanguageServer$.$lessinit$greater$default$8(MetalsLanguageServer.scala:105)
+	at scala.meta.metals.Main$.main(Main.scala:51)
+	at scala.meta.metals.Main.main(Main.scala)
+Caused by: java.io.IOException: Cannot run program "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe": CreateProcess error=5, Access is denied
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+	at dev.dirs.Util.runCommands(Util.java:197)
+	at dev.dirs.Util.runWinCommands(Util.java:233)
+	at dev.dirs.Util.windowsFallback(Util.java:282)
+	... 6 more
+Caused by: java.io.IOException: CreateProcess error=5, Access is denied
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:453)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:140)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+	... 9 more
+[0m2021.10.21 21:16:29 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\01 GCS exp\37_MyProjects\07_ownbusiness\04_automation\code\.metals\lsp.trace.json[0m
+Exception in thread "main" java.lang.RuntimeException: Couldn't find pwsh.exe or powershell.exe on path or in default system locations
+	at dev.dirs.Util.windowsFallback(Util.java:284)
+	at dev.dirs.Util.getWinDirs(Util.java:166)
+	at dev.dirs.ProjectDirectories.fromPath(ProjectDirectories.java:255)
+	at scala.meta.internal.bsp.BspServers$.globalInstallDirectories(BspServers.scala:165)
+	at scala.meta.internal.metals.MetalsLanguageServer$.$lessinit$greater$default$8(MetalsLanguageServer.scala:105)
+	at scala.meta.metals.Main$.main(Main.scala:51)
+	at scala.meta.metals.Main.main(Main.scala)
+Caused by: java.io.IOException: Cannot run program "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe": CreateProcess error=5, Access is denied
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+	at dev.dirs.Util.runCommands(Util.java:197)
+	at dev.dirs.Util.runWinCommands(Util.java:233)
+	at dev.dirs.Util.windowsFallback(Util.java:282)
+	... 6 more
+Caused by: java.io.IOException: CreateProcess error=5, Access is denied
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:453)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:140)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+	... 9 more
+[0m2021.10.21 21:16:32 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\01 GCS exp\37_MyProjects\07_ownbusiness\04_automation\code\.metals\lsp.trace.json[0m
+Exception in thread "main" java.lang.RuntimeException: Couldn't find pwsh.exe or powershell.exe on path or in default system locations
+	at dev.dirs.Util.windowsFallback(Util.java:284)
+	at dev.dirs.Util.getWinDirs(Util.java:166)
+	at dev.dirs.ProjectDirectories.fromPath(ProjectDirectories.java:255)
+	at scala.meta.internal.bsp.BspServers$.globalInstallDirectories(BspServers.scala:165)
+	at scala.meta.internal.metals.MetalsLanguageServer$.$lessinit$greater$default$8(MetalsLanguageServer.scala:105)
+	at scala.meta.metals.Main$.main(Main.scala:51)
+	at scala.meta.metals.Main.main(Main.scala)
+Caused by: java.io.IOException: Cannot run program "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe": CreateProcess error=5, Access is denied
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+	at dev.dirs.Util.runCommands(Util.java:197)
+	at dev.dirs.Util.runWinCommands(Util.java:233)
+	at dev.dirs.Util.windowsFallback(Util.java:282)
+	... 6 more
+Caused by: java.io.IOException: CreateProcess error=5, Access is denied
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:453)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:140)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+	... 9 more
+[0m2021.10.21 21:16:37 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\01 GCS exp\37_MyProjects\07_ownbusiness\04_automation\code\.metals\lsp.trace.json[0m
+Exception in thread "main" java.lang.RuntimeException: Couldn't find pwsh.exe or powershell.exe on path or in default system locations
+	at dev.dirs.Util.windowsFallback(Util.java:284)
+	at dev.dirs.Util.getWinDirs(Util.java:166)
+	at dev.dirs.ProjectDirectories.fromPath(ProjectDirectories.java:255)
+	at scala.meta.internal.bsp.BspServers$.globalInstallDirectories(BspServers.scala:165)
+	at scala.meta.internal.metals.MetalsLanguageServer$.$lessinit$greater$default$8(MetalsLanguageServer.scala:105)
+	at scala.meta.metals.Main$.main(Main.scala:51)
+	at scala.meta.metals.Main.main(Main.scala)
+Caused by: java.io.IOException: Cannot run program "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe": CreateProcess error=5, Access is denied
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+	at dev.dirs.Util.runCommands(Util.java:197)
+	at dev.dirs.Util.runWinCommands(Util.java:233)
+	at dev.dirs.Util.windowsFallback(Util.java:282)
+	... 6 more
+Caused by: java.io.IOException: CreateProcess error=5, Access is denied
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:453)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:140)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+	... 9 more
+[0m2021.10.21 21:16:40 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\01 GCS exp\37_MyProjects\07_ownbusiness\04_automation\code\.metals\lsp.trace.json[0m
+Exception in thread "main" java.lang.RuntimeException: Couldn't find pwsh.exe or powershell.exe on path or in default system locations
+	at dev.dirs.Util.windowsFallback(Util.java:284)
+	at dev.dirs.Util.getWinDirs(Util.java:166)
+	at dev.dirs.ProjectDirectories.fromPath(ProjectDirectories.java:255)
+	at scala.meta.internal.bsp.BspServers$.globalInstallDirectories(BspServers.scala:165)
+	at scala.meta.internal.metals.MetalsLanguageServer$.$lessinit$greater$default$8(MetalsLanguageServer.scala:105)
+	at scala.meta.metals.Main$.main(Main.scala:51)
+	at scala.meta.metals.Main.main(Main.scala)
+Caused by: java.io.IOException: Cannot run program "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe": CreateProcess error=5, Access is denied
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+	at dev.dirs.Util.runCommands(Util.java:197)
+	at dev.dirs.Util.runWinCommands(Util.java:233)
+	at dev.dirs.Util.windowsFallback(Util.java:282)
+	... 6 more
+Caused by: java.io.IOException: CreateProcess error=5, Access is denied
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:453)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:140)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+	... 9 more

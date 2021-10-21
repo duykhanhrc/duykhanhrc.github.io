@@ -15,7 +15,7 @@ fi
 echo ""
 echo ""
 echo "Committing changes to $(pwd)"
-/c/Hugo/bin/hugo.exe
+#/c/Hugo/bin/hugo.exe
 
 # # Go To Public folder
 # cd public

@@ -2,6 +2,8 @@
 .bundle
 .jekyll-cache
 .sass-cache
+.metas
+.vscode
 _site
 Gemfile.lock
 docs/*

@@ -1,7 +1,7 @@
-title: "Automation Test"
+title: "Senior Automation Test"
 email: duykhanhrc@gmail.com
 timezone: UTC
-url: "https://duykhanhrc.github.io"
+url: "https://seniorautomationtest.com/"
 baseurl: ""
 # destination: ./docs
 permalink: "/:title/"
@@ -29,11 +29,11 @@ authors:
   khanh:
     name: Khanh
     display_name: Khanh Pham
-    avatar: 'assets/images/sal.png'
+    avatar: 'assets/images/avatar.jpeg'
     email: duykhanhrc@gmail.com
     # web: https://www.wowthemes.net/category/jekyll-themes/
     # twitter: https://twitter.com/wowthemesnet
-    facebook: https://facebook.com/
+    facebook: https://www.facebook.com/seniorautomationtest
     description: "Người hướng dẫn automation test."
   # john:
   #   name: John
@@ -47,8 +47,9 @@ authors:
 # Social
 social:
   # instagram: https://www.instagram.com/bootstrapstarter/
-  #facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+  facebook: https://www.facebook.com/seniorautomationtest
   # twitter: https://twitter.com/bstartercom
+  tiktok: https://www.tiktok.com/@newautomationtest
 
 # Plugins
 plugins: 
