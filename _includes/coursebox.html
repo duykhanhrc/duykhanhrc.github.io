@@ -1,7 +1,7 @@
 <!-- begin post -->
 <div class="card">
     <a href="{{ course.url | absolute_url }}">
-        {% if course.image %} <img class="rounded mb-4" style="height: 16vh;" src="{{ course.baseurl }}/{{ course.image }}" alt="{{ course.title }}"> {% endif %}
+        {% if course.image %} <img class="rounded mb-4" src="{{ course.baseurl }}/{{ course.image }}" alt="{{ course.title }}"> {% endif %}
     </a>
     <div class="card-block">
         <h2 class="card-title h4 serif-font"><a href="{{ course.url | absolute_url }}">{{ course.title }}</a></h2>

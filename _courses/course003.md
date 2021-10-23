@@ -1,22 +1,26 @@
 ---
 layout: post
-title:  "Khóa Tự Học Automation Test"
+title:  "Hướng dẫn Java"
 mentor: Khanh Pham
-price: "0"
+price: "490,000"
 author: khanh
-image: assets/images/2.jpg
+image: assets/images/java.jpg
 ---
-Mentor và hướng dẫn miễn phí cho bạn nào yêu thích học lập trình và automation test. 
+Java là một ngôn ngữ lập trình nổi tiếng.
 
-Cùng nghiên cứu, giải đáp thắc mắc, support fix issue khi sử dụng các automation tool như: Selenium Java, Selenium Python, Jmeter, Karate, Gatling Karate, Protractor, Postman, Jenkins, Git, Cypress...
-
-Trả lời câu hỏi khi có problem.
+Học Java có thể dùng để:
++ Viết Web
++ Viết script kiểm thử tự động 
 
 ## Mục tiêu khóa học:
-+ Hỗ trợ các bạn trong quá trình tự học automation
-+ Đưa ra lời khuyên về các feature cần enhance
-+ Hướng dẫn cách tự nghiên cứu
-+ Giải quyết issue và support cách xài automation nếu cần
++ Biết các sử dụng ngôn ngữ Java
++ Chạy chương trình Java
++ Tạo các logic, vòng lặp
++ Xem các giá trị đầu vào, đầu ra
++ Hiểu và viết được các class, objects, OOP
++ Đọc và ghi files
++ Cài đặt Maven project
++ Xử lý Exception
 
 ## Nội dung khóa học:
-+ Tự học theo mong muốn
++ Mentor theo giáo trình W3School
