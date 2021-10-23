@@ -46,6 +46,15 @@ post_class: post-template
                 <div class="clearfix"></div>
 			</div>
 
+            <!-- Payment -->
+            {% unless page.price == "0" %}
+            <div class="row">
+                <div class="col-md-12 article-post serif-font">
+                    {% include payment.html %}
+                </div>
+            </div>
+            {% endunless %}
+
             <!-- Post Date -->
             <p>
             <small>
@@ -56,7 +65,8 @@ post_class: post-template
                 </small>
             </p>
             
-			<!-- Donation -->
+            <!-- Donation -->
+            {% if page.price == "0" %}
             <div class="row">
                 <div class="col-md-8">
                     <a href="/donate/">
@@ -67,6 +77,7 @@ post_class: post-template
                     {% include donation.html %}
                 </div>
             </div>
+            {% endif %}
             
             <!-- Prev/Next -->
             <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
