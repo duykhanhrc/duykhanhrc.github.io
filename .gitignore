@@ -8,3 +8,4 @@ _site
 Gemfile.lock
 docs/*
 !docs/.gitkeep
+.metals/global.log
