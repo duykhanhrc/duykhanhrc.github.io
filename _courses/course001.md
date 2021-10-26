@@ -4,7 +4,7 @@ title:  "Khóa Tự Học Automation Test"
 mentor: Khanh Pham
 price: "0"
 author: khanh
-image: assets/images/2.jpg
+image: assets/images/seniorqa.jpg
 ---
 Mentor và hướng dẫn miễn phí cho bạn nào yêu thích học lập trình và automation test. 
 
