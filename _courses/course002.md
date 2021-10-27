@@ -5,6 +5,7 @@ mentor: Khanh Pham
 price: "490,000"
 author: khanh
 image: assets/images/python.jpg
+donation: false
 ---
 Python là một ngôn ngữ lập trình nổi tiếng.
 

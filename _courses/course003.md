@@ -5,6 +5,7 @@ mentor: Khanh Pham
 price: "490,000"
 author: khanh
 image: assets/images/java.jpg
+donation: false
 ---
 Java là một ngôn ngữ lập trình nổi tiếng.
 

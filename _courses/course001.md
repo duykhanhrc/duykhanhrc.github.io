@@ -5,6 +5,7 @@ mentor: Khanh Pham
 price: "0"
 author: khanh
 image: assets/images/seniorqa.jpg
+donation: true
 ---
 Mentor và hướng dẫn miễn phí cho bạn nào yêu thích học lập trình và automation test. 
 

@@ -5,6 +5,7 @@ mentor: Khanh Pham
 price: "4,990,000"
 author: khanh
 image: assets/images/complete_selenium_java.jpg
+donation: false
 ---
 Bạn sẽ học các kĩ năng cần thiết để thực hiện việc tự động test cho một web application sử dụng ngôn ngữ lập trình Java. 
 

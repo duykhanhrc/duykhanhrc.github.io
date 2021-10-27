@@ -13,8 +13,8 @@ topmenu:
 # - title: Donate
 #   url: "donate/"
 
-# - title: Blog
-#   url: ""
+- title: Blog
+  url: "categories/"
 
 - title: Liên Hệ
   url: "contact/"

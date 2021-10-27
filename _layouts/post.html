@@ -47,7 +47,7 @@ post_class: post-template
 			</div>
 
             <!-- Payment -->
-            {% unless page.price == "0" %}
+            {% unless page.donation == true %}
             <div class="row">
                 <div class="col-md-12 article-post serif-font">
                     {% include payment.html %}
@@ -66,11 +66,11 @@ post_class: post-template
             </p>
             
             <!-- Donation -->
-            {% if page.price == "0" %}
+            {% if page.donation == true %}
             <div class="row">
                 <div class="col-md-8">
                     <a href="/donate/">
-                        <p style="color: #F6681B; font-size: 18px; font-weight: 700; font-family: 'Montserrat',Sans-serif;"><i>Hãy ủng hộ bằng cách click vào đây để mời mentor ly coffee nhé! :)</i></p>
+                        <p style="color: #F6681B; font-size: 18px; font-weight: 700; font-family: 'Montserrat',Sans-serif;"><i>Nếu bạn thấy có ích, hãy ủng hộ bằng cách click vào đây để mời mentor ly coffee nhé! :)</i></p>
                     </a>
                 </div>
                 <div class="col-md-4">
