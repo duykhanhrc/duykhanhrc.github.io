@@ -14,7 +14,8 @@ Chuyên đào tạo và hướng dẫn các bạn fresher về cách sử dụng
 
 Thông Tin Liên Hệ:
 + Email: duykhanhrc@gmail.com
-+ Blog: seniorautomationtest.com
++ Blog: [seniorautomationtest.com](https://seniorautomationtest.com)
++ Telegram: [seniorautomationtest](https://t.me/seniorautomationtest)
 
 [Hoặc Để Lại Tin Nhắn Ở Đây](/contact/)
 

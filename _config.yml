@@ -60,5 +60,5 @@ plugins:
 - jekyll-archives
 
 collections:
-  courses:
+  services:
     output: true

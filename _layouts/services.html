@@ -1,0 +1,13 @@
+---
+title: "Services"
+layout: default
+permalink: "/services.html"
+---
+<h4 class="mt-5 mb-4 pb-2 border-bottom"><span class="text-capitalize small font-weight-bold">DỊCH VỤ</span></h4>
+<div class="row">
+{% for course in site.services %}
+<div class="col-md-4 mb-5">
+{% include coursebox.html %}
+</div>
+{% endfor %}
+</div>

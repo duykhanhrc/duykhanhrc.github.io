@@ -4,8 +4,8 @@ topmenu:
 - title: Trang Chủ
   url: ""
 
-- title: Khóa Học
-  url: "courses/"
+- title: Dịch Vụ
+  url: "services/"
 
 - title: Mentor
   url: "about/"
