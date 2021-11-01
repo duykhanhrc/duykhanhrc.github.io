@@ -1,0 +1,47 @@
+.customquantity {
+    width: auto;
+    padding: 4px 10px;
+}
+
+.bmcinput {
+    display: none;
+}
+.donation-quantity{
+    border-radius: 50%;
+    width: 40px;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid rgba(255, 129, 63, 0.26);
+    font-family: "Avenir LT Std 85 Heavy";
+    cursor: pointer;
+    font-size: 15px;
+    transition: all .3s;
+    color: rgba(255, 128, 62, 0.87);
+}
+
+.donation-quantity:hover {
+    border: 1px solid rgba(255, 128, 62, 0.87);
+}
+
+input.bmcinput:checked + label {
+    border: 1px solid rgba(255, 128, 62, 0.87);
+    color: #fff;
+    background: rgba(255, 128, 62, 0.87);
+}
+
+.senddonate {
+    letter-spacing: 0.9px;
+    text-decoration: none;
+    background: #FF813F;
+    border-radius: 3px;
+    transition: all 0.3s;
+    box-shadow: 0 2px 8px 0 rgb(225 129 63 / 35%);
+    color: #fff;
+    border: 0;
+    padding: 15px 10px;
+    cursor: pointer;
+    font-size: 17px;
+    width: 100%;
+}
