@@ -29,17 +29,17 @@ Nếu bạn cảm thấy thích những gì mình chia sẻ, hoặc là thấy t
 
 </div>
 <div class="mb-3">
-  <input name="name" placeholder="Tên (không bắt buộc)" class="form-control mb-0"  value="">
+  <input name="name" placeholder="Tên (không bắt buộc)" class="form-control mb-0"  value="" style="font-size: 1.18rem;">
 </div>
 
 <div class="mb-3">
-  <button id="submitcoffee" type="button" name="submit" class="btn senddonate" data-bs-toggle="collapse" data-bs-target="#collapsePayment" aria-expanded="false" aria-controls="collapsePayment" style="cursor: pointer;">
-  <span id="totalresult">150k VND</span> Gửi coffee
-  </button>
+  <div id="submitcoffee" type="button" name="submit" class="btn senddonate" data-bs-toggle="collapse" data-bs-target="#collapsePayment" aria-expanded="false" aria-controls="collapsePayment" style="cursor: pointer;">
+  <span id="totalresult" style="font-size: 1.18rem;">150k VND</span> Gửi coffee
+  </div>
 </div>
 </form>
 
-<div class="collapse" id="collapsePayment" markdown="1">
+<!-- <div class="collapse" id="collapsePayment" markdown="1"> -->
 Gửi coffee cho mình bằng các cách sau.
 
 Lời nhắn tham khảo: <b><span id="msn">Người lạ</span> gửi <span id="msq">3</span> ly coffee<b>
@@ -62,4 +62,4 @@ Bạn cũng có thể thưởng bằng cách chuyển khoản thông thường v
 
 [paypal.me/seniorautomationtest](https://paypal.me/seniorautomationtest)
 
-</div>
+<!-- </div> -->
