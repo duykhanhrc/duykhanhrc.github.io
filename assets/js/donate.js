@@ -44,3 +44,6 @@ $("input[name='name']").keyup(function(e) {
     $('#msn').html(msn);
 });
     
+$(".submitcoffee").click(function(e) {
+    e.stopPropagation();
+})
