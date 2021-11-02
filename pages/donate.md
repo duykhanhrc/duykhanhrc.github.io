@@ -33,9 +33,9 @@ Nếu bạn cảm thấy thích những gì mình chia sẻ, hoặc là thấy t
 </div>
 
 <div class="mb-3">
-  <div id="submitcoffee" type="button" name="submit" class="btn senddonate" data-bs-toggle="collapse" data-bs-target="#collapsePayment" aria-expanded="false" aria-controls="collapsePayment" style="cursor: pointer;">
+  <button id="submitcoffee" type="button" name="submit" class="btn senddonate" data-bs-toggle="collapse" data-bs-target="#collapsePayment" aria-expanded="false" aria-controls="collapsePayment" style="cursor: pointer;">
   <span id="totalresult" style="font-size: 1.18rem;">150k VND</span> Gửi coffee
-  </div>
+  </button>
 </div>
 </form>
 

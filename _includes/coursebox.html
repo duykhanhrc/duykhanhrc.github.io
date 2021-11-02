@@ -14,7 +14,9 @@
             font-weight: 600;
             line-height: 1.125;
         ">{{ course.price }}
+        {% unless course.price == "Negotiation" %}
         <sub style="top: -0.5em;">đ</sub></p>
+        {% endunless %}
     </div>
 </div>
 <!-- end post -->
