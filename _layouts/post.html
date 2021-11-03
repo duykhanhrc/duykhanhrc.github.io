@@ -111,11 +111,13 @@ post_class: post-template
             
             <!-- Begin Comments
             ================================================== -->
+            {% if page.comments == true %}
             <section>
             <div id="comments">                          
-                {% include disqus.html %} 
+                {% include utterances.html %} 
             </div>
             </section>
+            {% endif %}
             <!--End Comments
             ================================================== -->
             

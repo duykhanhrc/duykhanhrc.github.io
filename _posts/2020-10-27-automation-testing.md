@@ -5,6 +5,7 @@ author: khanh
 categories: [ selenium, automation ]
 image: assets/images/automationtest/automationtesting.jpg
 donation: true
+comments: true
 ---
 Automation testing (Kiểm thử tự động) là một kĩ thuật test và so sánh giá trị thực tế với giá trị mong muốn. Đễ thực hiện thì chúng ta cần phải viết các test scripts hoặc sử dụng các test automation tool. Kiểm thử tự động được dùng để tự động hóa các công việc lặp đi lặp lại, và các bước test mà khó có thể hoàn thành thủ công.
 

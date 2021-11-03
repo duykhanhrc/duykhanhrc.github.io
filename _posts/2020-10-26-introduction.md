@@ -5,6 +5,7 @@ author: khanh
 categories: [ selenium, automation ]
 image: assets/images/1.jpg
 donation: true
+comments: true
 ---
 ## Software Testing là gì:
 
