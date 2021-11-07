@@ -44,22 +44,24 @@ Gửi coffee cho mình bằng các cách sau.
 
 Lời nhắn tham khảo: <b><span id="msn">Người lạ</span> gửi <span id="msq">3</span> ly coffee<b>
 
-## 1. Gửi qua MoMo
+## 1. Chuyển khoản ngân hàng
 
-![MoMo]({{ site.baseurl }}/assets/images/donate_momo.png)
-
-Dùng MoMo và quyét mã QR trên đây để mời loại cà phê nào tuỳ ý nhé!
-
-## 2. Chuyển khoản ngân hàng
-
-Bạn cũng có thể thưởng bằng cách chuyển khoản thông thường với thông tin sau:
+Bạn có thể thưởng bằng cách chuyển khoản thông thường với thông tin sau:
 
 + Số TK: 0501000090055
 + Ngân hàng: Vietcombank
 + Tên tài khoản: Phạm Duy Khánh
 
+## 2. Gửi qua MoMo
+
+![MoMo]({{ site.baseurl }}/assets/images/donate_momo.png)
+
+Hoặc dùng MoMo và quyét mã QR trên đây để mời loại cà phê nào tuỳ ý nhé!
+
 ## 3. Paypal
 
 [paypal.me/seniorautomationtest](https://paypal.me/seniorautomationtest)
+
+Cuối cùng là cách chuyển qua Paypal bằng cách click vô link trên.
 
 <!-- </div> -->
