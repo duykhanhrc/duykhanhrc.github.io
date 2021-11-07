@@ -50,7 +50,7 @@ Nếu bạn cảm thấy thích những gì mình chia sẻ, hoặc là thấy t
 
 Lời nhắn tham khảo: <b><span id="msn">Mình</span> gửi <span id="msq">3</span> ly coffee<b>
 
-Gửi coffee cho mình bằng các cách sau:
+Gửi coffee cho mentor bằng các cách sau:
 
 ## 1. Chuyển khoản ngân hàng
 
