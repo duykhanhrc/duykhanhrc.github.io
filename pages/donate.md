@@ -77,9 +77,13 @@ Cuối cùng là cách chuyển qua Paypal bằng cách click vô link trên.
 <div class="col-sm-6 col-md-6 col-lg-6">
   <div class="mt-0">
     <h2 class="mb-0 mt-0" style="line-height: 1.3;">Xem ai đã gửi coffees</h2>
-    <h3 class="mb-0 mt-0" style="line-height: 1.3;">Đã nhận <span class="text-orange">{{ site.donators.size }}</span> coffees</h3>
-    <hr>
+    <h3 class="mb-0 mt-0" style="line-height: 1.3;">Đã nhận <span class="text-orange">
+    {% assign total = 0 %}
     {% for donator in site.donators %}
+      {% assign total = total | plus: donator.quantity %}
+    {% endfor %}{{ total }}</span> coffees</h3>
+    <hr>
+    {% for donator in site.donators reversed %}
     <div class="post message">
       <div class="row ml-0 mr-0">
         <div style="color: #262626;line-height:1.4;">
