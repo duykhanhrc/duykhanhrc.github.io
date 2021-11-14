@@ -7,17 +7,17 @@ topmenu:
 - title: Dịch Vụ
   url: "services/"
 
-- title: Mentor
-  url: "about/"
-
 # - title: Donate
 #   url: "donate/"
 
 - title: Blog
   url: "categories/"
 
-- title: Liên Hệ
-  url: "contact/"
+- title: About Me
+  url: "about/"
+
+# - title: Liên Hệ
+#   url: "contact/"
 
 # - title: Get this theme  
 #   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
