@@ -64,7 +64,9 @@ Bạn có thể thưởng bằng cách chuyển khoản thông thường với t
 
 ![MoMo]({{ site.baseurl }}/assets/images/donate_momo.png)
 
-Hoặc dùng MoMo và quyét mã QR trên đây để mời loại cà phê nào tuỳ ý nhé!
+Dùng MoMo và:
++ Quyét mã QR trên đây để mời loại cà phê nào tuỳ ý nhé!
++ Hoặc là gửi theo sđt: 0976947479 - Phạm Duy Khánh
 
 ## 3. Paypal
 
