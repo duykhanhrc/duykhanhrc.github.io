@@ -11,11 +11,11 @@
             margin-top: -1.25rem;
             font-size: 1.25rem;
             color: #363636;
-            font-weight: 600;
+            font-weight: 200;
             line-height: 1.125;
-        ">{{ course.price }}
-        {% unless course.price == "Negotiation" %}
-        <sub style="top: -0.5em;">đ</sub></p>
+        ">{{ course.contactpage }}
+        {% unless course.contactpage == "Liên hệ Page" %}
+        <!-- <sub style="top: -0.5em;"></sub></p> -->
         {% endunless %}
     </div>
 </div>
