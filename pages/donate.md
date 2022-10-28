@@ -7,7 +7,7 @@ image: assets/images/buy-me-a-coffee.png
 
 <p class="mb-0" style="line-height: 1.3;"><b>Khanh Pham</b></p>
 <p class="mb-0" style="line-height: 1.3;"><b>@seniorautomationtest</b></p>
-<p>Developer &amp; Automation</p>
+<p>Automation Test Lead &amp; Test Manager</p>
 
 Nếu bạn cảm thấy thích những gì mình chia sẻ, hoặc là thấy thích thì thưởng vì bất kỳ lí do gì, mình rất vui nếu được mời uống coffee! :) Thanks.
 

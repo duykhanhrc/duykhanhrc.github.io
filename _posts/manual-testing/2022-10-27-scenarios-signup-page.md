@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Một số trường hợp kiểm thử chức năng đăng ký tài khoản"
-author: khanh
-categories: [ selenium, automation ]
+author: son
+categories: [ manual ]
 image: assets/images/manual-testing/signup-form/create_account2.png
 donation: true
 comments: true

@@ -2,8 +2,8 @@
 layout: post
 title:  "Testing từ người mới bắt đầu tới khi thành chuyên gia"
 author: khanh
-categories: [ selenium, automation ]
-image: assets/images/1.jpg
+categories: [ manual, automation ]
+image: assets/images/testing_for_beginer_to_expert.png
 donation: true
 comments: true
 ---
