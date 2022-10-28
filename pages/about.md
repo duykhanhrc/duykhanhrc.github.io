@@ -7,7 +7,7 @@ image: assets/images/satteam.png
 
 SATTEAM là một đội ngũ với các thành viên đã trải qua nhiều năm kinh nghiệm trong ngành kiểm thử tự động.
 
-* Các thành viên đã từng xuất hiện trong nhiều dự án của các công ty phần mềm khủng như NAB/TMA/Amdocs/Gear Inc./LogiGear/Hitachi Vantara VN với vai trò là người chịu trách nhiệm khởi tạo automation framework từ giai đoạn design của dự án.
+* Các thành viên đã từng xuất hiện trong nhiều dự án của các công ty phần mềm khủng như NAB/TMA/Amdocs/Gear Inc./Hitachi Vantara/Tibco/LogiGear với vai trò là người chịu trách nhiệm khởi tạo automation framework từ giai đoạn design của dự án.
 * Tham gia và hoàn thành các Freelancer projects từ các nước trên thế giới: England, Ukraina, India, Việt Nam với những Feedback tốt!
 
 Chúng tôi quy tụ lại để thành lập lên một môi trường đào tạo Automation Test chuyên nghiệp với các bài giảng ở nhiều dạng khác nhau về kiểm thử tự động.
