@@ -13,8 +13,8 @@ topmenu:
 - title: Blog
   url: "categories/"
 
-- title: About Me
-  url: "about/"
+- title: About Us
+  url: "about-us/"
 
 # - title: Liên Hệ
 #   url: "contact/"
@@ -34,7 +34,7 @@ footermenu:
 #   url: "privacy-policy/"
 
 - title: Mentor
-  url: "about/"
+  url: "about-us/"
 
 - title: Liên Hệ
   url: "contact/"

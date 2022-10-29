@@ -5,7 +5,7 @@ url: "https://seniorautomationtest.com"
 baseurl: ""
 # destination: ./docs
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
 author: Khanh
 paginate: 30
@@ -35,21 +35,20 @@ authors:
     # twitter: https://twitter.com/wowthemesnet
     facebook: https://www.facebook.com/seniorautomationtest
     description: "Người hướng dẫn automation test."
-  # john:
-  #   name: John
-  #   display_name: John
-  #   avatar: 'assets/images/john.png'
-  #   email: duykhanhrc@gmail.com
-  #   web: https://www.wowthemes.net/category/jekyll-themes/
-  #   twitter: https://twitter.com/wowthemesnet
-  #   description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+  son:
+    name: Lê Tiến Sơn
+    display_name: Lê Tiến Sơn
+    avatar: 'assets/images/letienson.png'
+    email: letienson.30042004@gmail.com
+    web: https://letienson987.github.io/contactme/
+    # twitter: https://twitter.com/wowthemesnet
+    description: "Người viết Blog"
 
 # Social
 social:
-  # instagram: https://www.instagram.com/bootstrapstarter/
   facebook: https://www.facebook.com/seniorautomationtest
-  # twitter: https://twitter.com/bstartercom
-  tiktok: https://www.tiktok.com/@newautomationtest
+  youtube: https://www.youtube.com/watch?v=NnCqivua4Yk
+  tiktok: https://www.tiktok.com/@seniortester
 
 # Plugins
 plugins: 

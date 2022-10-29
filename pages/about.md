@@ -1,20 +1,25 @@
 ---
 layout: page
-title: Mentor - Khanh Pham
-permalink: "/about/"
-image: assets/images/5.jpg
+title: Senior Automation Test Team - SATTEAM
+permalink: "/about-us/"
+image: assets/images/satteam.png
 ---
 
+SATTEAM là một đội ngũ với các thành viên đã trải qua nhiều năm kinh nghiệm trong ngành kiểm thử tự động.
 
-Chào mọi người, mình là Phạm Duy Khánh, tốt nghiệp Đại Học Công Nghiệp Thành Phố Hồ Chí Minh, đã trải qua nhiều năm kinh nghiệm trong ngành kiểm thử tự động.
+* Các thành viên đã từng xuất hiện trong nhiều dự án của các công ty phần mềm khủng như NAB/TMA/Amdocs/Gear Inc./Hitachi Vantara/Tibco/LogiGear với vai trò là người chịu trách nhiệm khởi tạo automation framework từ giai đoạn design của dự án.
+* Tham gia và hoàn thành các Freelancer projects từ các nước trên thế giới: England, Ukraina, India, Việt Nam với những Feedback tốt!
 
-Mình từng xuất hiện trong nhiều dự án trong các công ty phần mềm khủng như TMA/Amdocs/Hitachi Vantara VN với vai trò là người chịu trách nhiệm khởi tạo automation framework từ giai đoạn design của dự án, và các Freelancer projects.
+Chúng tôi quy tụ lại để thành lập lên một môi trường đào tạo Automation Test chuyên nghiệp với các bài giảng ở nhiều dạng khác nhau về kiểm thử tự động.
 
-Đồng thời mình cũng chuyên đào tạo, hướng dẫn các bạn fresher về cách sử dụng các tool kiểm thử tự động.
+### Mục tiêu
+Giúp các bạn học viên đang là sinh viên/ bạn mới vào nghề/ bạn muốn nâng cao kĩ năng/ các bạn Manual Tester mong muốn cải thiện thu nhập.
 
 **Thông Tin Liên Hệ:**
+
+Team Leader - Khánh Phạm
 + Email: duykhanhrc@gmail.com
 + Blog: [seniorautomationtest.com](https://seniorautomationtest.com)
-+ Telegram: [seniorautomationtest](https://t.me/seniorautomationtest)
++ Fanpage: [seniorautomationtest](https://www.facebook.com/seniorautomationtest)
 + Địa chỉ: Số 481 đường Cây Trâm, phường 8, quận Gò Vấp, TP.Hồ Chí Minh, Việt Nam
 
