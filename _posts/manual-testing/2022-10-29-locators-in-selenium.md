@@ -17,10 +17,16 @@ Bài đăng này, mình chia sẻ 8 công cụ để locate element/elements hà
 ### 8 công cụ để locate element/elements
 
 Class ‘By’ được sử dụng để chỉ định thuộc tính nào được sử dụng để định vị các phần tử trên một trang.
-![class-by]({{ site.baseurl }}/assets/images/automationtest/locating-element/class-by.png)
+
+<div class="myDiv" style="color:black; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
+  <p> from selenium.webdriver.common.by import By </p>
+  <span> driver.find_element(By.XPATH, "//button[text()='Some text']") </span>
+  <span> driver.find_element(By.NAME, ‘username’) </span>
+</div>
+
 
 Đây là những cách khác nhau mà các thuộc tính được sử dụng để định vị các phần tử trên một trang:
-
+```
 * By ID: find_element(By.ID, "id")
 * By NAME: find_element(By.NAME, "name")
 * By XPATH: find_element(By.XPATH, "xpath")
@@ -29,29 +35,30 @@ Class ‘By’ được sử dụng để chỉ định thuộc tính nào đư�
 * By TAG_NAME: find_element(By.TAG_NAME, "tag name")
 * By CLASS_NAME: find_element(By.CLASS_NAME, "class name")
 * By CSS_SELECTOR: find_element(By.CSS_SELECTOR, "css selector")
-
-(Để tìm nhiều elements chúng ta sử dụng 'find_elements')
+```
+(Để tìm nhiều elements chúng ta sử dụng ```find_elements```)
 
 #### Ví dụ với 1 đoạn HTML:
 ![class-by]({{ site.baseurl }}/assets/images/automationtest/locating-element/html.png)
 
 Các elements có thể được located như sau:
+<div class="myDiv" style="color:black; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
+<p> login_form = driver.find_element(By.ID, 'loginForm')</p>
 
-* login_form = driver.find_element(By.ID, 'loginForm')
+<p> username = driver.find_element(By.NAME, 'username')</p>
 
-* username = driver.find_element(By.NAME, 'username')
+<p> login_form_with_xpath = driver.find_element(By.XPATH, "//form[@id='loginForm']")</p>
 
-* login_form_with_xpath = driver.find_element(By.XPATH, "//form[@id='loginForm']")
+<p> continue_link = driver.find_element(By.LINK_TEXT, 'Continue')</p>
 
-* continue_link = driver.find_element(By.LINK_TEXT, 'Continue')
+<p> partial_continue_link = driver.find_element(By.PARTIAL_LINK_TEXT, 'Conti')</p>
 
-* partial_continue_link = driver.find_element(By.PARTIAL_LINK_TEXT, 'Conti')
+<p> heading1 = driver.find_element(By.TAG_NAME, 'h1')</p>
 
-* heading1 = driver.find_element(By.TAG_NAME, 'h1')
+<p> content_with_class_name = driver.find_element(By.CLASS_NAME, 'content')</p>
 
-* content_with_class_name = driver.find_element(By.CLASS_NAME, 'content')
-
-* content_with_css_selectors = driver.find_element(By.CSS_SELECTOR, 'p.content')
+<p> content_with_css_selectors = driver.find_element(By.CSS_SELECTOR, 'p.content')</p>
+</div>
 
 ##### Với các dự án lớn, mình recommend sử dụng Xpath để có được hiệu suất tốt nhất khi làm việc.
 * ###### Tại bài viết sau mình sẽ hướng dẫn cách lấy và viết xpath nhé!
