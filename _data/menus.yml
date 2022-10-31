@@ -19,6 +19,9 @@ topmenu:
 # - title: Liên Hệ
 #   url: "contact/"
 
+- title: Feedback
+  url: "feedback/"
+
 # - title: Get this theme  
 #   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
 #   class: "ml-2 btn btn-dark text-white px-3"
