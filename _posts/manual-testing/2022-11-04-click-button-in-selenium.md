@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hướng dẫn sử dụng hàm Click trong Selenium với Java vàn Python"
+title:  "Hướng dẫn sử dụng hàm Click trong Selenium với Java và Python"
 author: son
 categories: [ selenium, automation ]
 image: assets/images/automationtest/click-in-selenium/click-in-selenium.png
