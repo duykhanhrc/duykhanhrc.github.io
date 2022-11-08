@@ -11,7 +11,7 @@ comments: true
 Trong bài đăng này, chúng ta sẽ nghiên cứu - cách viết các trường hợp kiểm thử cho chức năng Đăng nhập. Bạn có thể tham khảo các trường hợp thử nghiệm này cho các project của công ty và các project cá nhân.
 
 
-Để đảm bảo trải nghiệm người dùng tốt, mình cần đảm ảo chất lượng cho các nội dung sau:
+Để đảm bảo trải nghiệm người dùng tốt, mình cần đảm bảo chất lượng cho các nội dung sau:
 * Kiểm tra giao diện người dùng của trang đăng nhập.
 * Kiểm tra chức năng đăng nhập.
 * Kiểm tra bảo mật.
@@ -67,9 +67,10 @@ Dưới đây là các case kiểm thử.
 
 6) Xác minh rằng lỗ hổng XSS sẽ không hoạt động trên trang đăng nhập.
 
+<div>
+    <p style=" text-align: center; ">Chúc các bạn học tập tốt!</p>
+    <p style=" text-align: center; font-size: 20px; ">❤️Thanks for reading!❤️</p>
+</div>
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chúc các bạn học tập tốt!
 
-
-                                ❤️Thanks for reading!❤️
 
