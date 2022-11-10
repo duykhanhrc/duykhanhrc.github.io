@@ -19,9 +19,9 @@ Bài đăng này, mình chia sẻ 8 công cụ để locate element/elements hà
 Class ‘By’ được sử dụng để chỉ định thuộc tính nào được sử dụng để định vị các phần tử trên một trang.
 
 <div class="myDiv" style="color:black; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
-  <p> from selenium.webdriver.common.by import By </p>
-  <span> driver.find_element(By.XPATH, "//button[text()='Some text']") </span>
-  <span> driver.find_element(By.NAME, ‘username’) </span>
+  <p style="font-size:15px;"> from selenium.webdriver.common.by import By </p>
+  <span style="font-size:15px;"> driver.find_element(By.XPATH, "//button[text()='Some text']") </span>
+  <span style="font-size:15px;"> driver.find_element(By.NAME, ‘username’) </span>
 </div>
 
 
@@ -43,24 +43,27 @@ Class ‘By’ được sử dụng để chỉ định thuộc tính nào đư�
 
 Các elements có thể được located như sau:
 <div class="myDiv" style="color:black; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
-<p> login_form = driver.find_element(By.ID, 'loginForm')</p>
+<p style="font-size:11px;"> login_form = driver.find_element(By.ID, 'loginForm')</p>
 
-<p> username = driver.find_element(By.NAME, 'username')</p>
+<p style="font-size:11px;"> username = driver.find_element(By.NAME, 'username')</p>
 
-<p> login_form_with_xpath = driver.find_element(By.XPATH, "//form[@id='loginForm']")</p>
+<p style="font-size:11px;"> login_form_with_xpath = driver.find_element(By.XPATH, "//form[@id='loginForm']")</p>
 
-<p> continue_link = driver.find_element(By.LINK_TEXT, 'Continue')</p>
+<p style="font-size:11px;"> continue_link = driver.find_element(By.LINK_TEXT, 'Continue')</p>
 
-<p> partial_continue_link = driver.find_element(By.PARTIAL_LINK_TEXT, 'Conti')</p>
+<p style="font-size:11px;"> partial_continue_link = driver.find_element(By.PARTIAL_LINK_TEXT, 'Conti')</p>
 
-<p> heading1 = driver.find_element(By.TAG_NAME, 'h1')</p>
+<p style="font-size:11px;"> heading1 = driver.find_element(By.TAG_NAME, 'h1')</p>
 
-<p> content_with_class_name = driver.find_element(By.CLASS_NAME, 'content')</p>
+<p style="font-size:11px;"> content_with_class_name = driver.find_element(By.CLASS_NAME, 'content')</p>
 
-<p> content_with_css_selectors = driver.find_element(By.CSS_SELECTOR, 'p.content')</p>
+<p style="font-size:11px;"> content_with_css_selectors = driver.find_element(By.CSS_SELECTOR, 'p.content')</p>
 </div>
 
 ##### Với các dự án lớn, mình recommend sử dụng Xpath để có được hiệu suất tốt nhất khi làm việc.
 * ###### Tại bài viết sau mình sẽ hướng dẫn cách lấy và viết xpath nhé!
 
-                                ❤️Thanks for reading!❤️
+<div>
+    <p style=" text-align: center; ">Chúc các bạn học tập tốt!</p>
+    <p style=" text-align: center; font-size: 20px; ">❤️Thanks for reading!❤️</p>
+</div>

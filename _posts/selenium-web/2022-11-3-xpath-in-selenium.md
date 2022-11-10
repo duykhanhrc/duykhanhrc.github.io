@@ -16,8 +16,8 @@ Nó đi qua DOM để tiếp cận element mong muốn có thuộc tính cụ th
 
 
 <div class="myDiv" style="color:green; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
-  <p> 1.   //tagname[@attribute='value']</p>
-  <p> 2.   //*[@attribute='value']</p>
+  <p style="font-size:15px;"> 1.   //tagname[@attribute='value']</p>
+  <p style="font-size:15px;"> 2.   //*[@attribute='value']</p>
   
 </div>
 
@@ -81,9 +81,12 @@ Xpath có thể được tạo bằng các phương pháp sau:
 ##### Syntax 
 <div class="myDiv" style="color:black; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
 
-<p style="color:black; font-size:15px;"> login_form_with_xpath = driver.find_element(By.XPATH, "//form[@id='loginForm']/parent::div")</p>
+<p style="color:black; font-size:12px;"> login_form_with_xpath = driver.find_element(By.XPATH, "//form[@id='loginForm']/parent::div")</p>
 </div>
 
-##### Với bài viết này mình đã hướng dẫn các bạn về Xpath trong Selenium! Chúc các bạn học tập tốt nhé !
+##### Với bài viết này mình đã hướng dẫn các bạn về Xpath trong Selenium!
 
-                                ❤️Thanks for reading!❤️
+<div>
+    <p style=" text-align: center; ">Chúc các bạn học tập tốt!</p>
+    <p style=" text-align: center; font-size: 20px; ">❤️Thanks for reading!❤️</p>
+</div>

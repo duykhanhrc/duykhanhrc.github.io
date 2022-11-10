@@ -19,15 +19,15 @@ Sau khi xác định, chúng ta phải nhấp vào Button với sự trợ giúp
 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java
 <div class="myDiv" style="color:black; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
-  <p> WebElement button = driver. findElement(By.id("button"));</p>
-  button.click();
+  <p style="font-size:15px;"> WebElement button = driver. findElement(By.id("button"));</p>
+  <p style="font-size:15px;"> button.click();</p>
 </div>
 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python
 
 <div class="myDiv" style="color:black; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
-  <p> button = driver.findElement(By.id("button"))</p>
-  button.click()
+  <p style="font-size:15px;"> button = driver.findElement(By.id("button"))</p>
+  <p style="font-size:15px;"> button.click()</p>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Với Python, syntax lúc nào cũng nhanh gọn và dễ đọc code hơn 😄 )
@@ -40,6 +40,10 @@ Ví dụ với Project của mình:
 Và khi maintain sẽ dễ dàng hơn, tiết kiệm thời gian hơn.
 
 
-##### Chúc các bạn học tập tốt!
+<!-- <div>
+    <p style=" text-align: center; ">Chúc các bạn học tập tốt!</p>
+    <p style=" text-align: center; font-size: 20px; ">❤️Thanks for reading!❤️</p>
+</div> -->
+
 
                                 ❤️Thanks for reading!❤️
