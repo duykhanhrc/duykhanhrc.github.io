@@ -40,10 +40,7 @@ Ví dụ với Project của mình:
 Và khi maintain sẽ dễ dàng hơn, tiết kiệm thời gian hơn.
 
 
-<!-- <div>
+<div>
     <p style=" text-align: center; ">Chúc các bạn học tập tốt!</p>
     <p style=" text-align: center; font-size: 20px; ">❤️Thanks for reading!❤️</p>
-</div> -->
-
-
-                                ❤️Thanks for reading!❤️
+</div>
