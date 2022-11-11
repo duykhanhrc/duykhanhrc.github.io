@@ -48,5 +48,7 @@ Bài viết này sẽ nêu lên 10 trường hợp kiểm thử cho một form �
 
 10) Xác minh rằng các gợi ý được cung cấp cho từng trường trên biểu mẫu để dễ sử dụng.
 
-                                ❤️Thanks for reading!❤️
-
+<div>
+    <p style=" text-align: center; ">Chúc các bạn học tập tốt!</p>
+    <p style=" text-align: center; font-size: 20px; ">❤️Thanks for reading!❤️</p>
+</div>

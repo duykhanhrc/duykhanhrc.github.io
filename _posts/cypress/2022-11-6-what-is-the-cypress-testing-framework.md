@@ -43,6 +43,7 @@ Cypress có thể cung cấp ảnh chụp màn hình, video của các lỗi th�
 ###### Đó là những lý do bạn nên sử dụng Cypress cho dự án của công ty, hoặc các dự án freelance của bạn.
 
 
-#####  Chúc các bạn học tập tốt nhé !
-
-                                ❤️Thanks for reading!❤️
+<div>
+    <p style=" text-align: center; ">Chúc các bạn học tập tốt!</p>
+    <p style=" text-align: center; font-size: 20px; ">❤️Thanks for reading!❤️</p>
+</div>
