@@ -152,10 +152,16 @@ small, .small {
     .layout-default .wrap-page-header {
         display:block;
     }
+    p.scriptCode{
+        font-size: 15px;
+    }
 }
 @media only screen and (max-width: 767px) {
     .page-header.big {
         font-size:2.5em;
+    }
+    p.scriptCode{
+        font-size: 0.7em;
     }
 }
 .google-auto-placed {

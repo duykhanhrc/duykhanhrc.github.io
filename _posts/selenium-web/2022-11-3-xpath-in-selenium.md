@@ -16,8 +16,8 @@ Nó đi qua DOM để tiếp cận element mong muốn có thuộc tính cụ th
 
 
 <div class="myDiv" style="color:green; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
-  <p style="font-size:15px;"> 1.   //tagname[@attribute='value']</p>
-  <p style="font-size:15px;"> 2.   //*[@attribute='value']</p>
+  <p class="scriptCode"> 1.   //tagname[@attribute='value']</p>
+  <p class="scriptCode"> 2.   //*[@attribute='value']</p>
   
 </div>
 
@@ -55,7 +55,7 @@ Xpath có thể được tạo bằng các phương pháp sau:
 ##### Syntax 
 <div class="myDiv" style="color:black; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
 
-<p style="color:black; font-size:15px;"> login_form_with_xpath = driver.find_element(By.XPATH, "//form[@id='loginForm']")</p>
+<p class="scriptCode"> login_form_with_xpath = driver.find_element(By.XPATH, "//form[@id='loginForm']")</p>
 </div>
 
 * Absolute Xpath - Đường dẫn này bắt đầu từ HTML gốc đến phần tử mong muốn. Nó được biểu diễn bằng một dấu gạch chéo /. Nó dài hơn so với Relative Xpath và nếu bất kỳ thuộc tính nào hoặc giá trị của chúng bắt đầu từ phần tử gốc bị thay đổi, thì chúng tôi sẽ không thể xác định duy nhất đối tượng mong muốn của chúng tôi trên trang.
@@ -63,7 +63,7 @@ Xpath có thể được tạo bằng các phương pháp sau:
 ##### Syntax 
 <div class="myDiv" style="color:black; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
 
-<p style="color:black; font-size:15px;"> login_form_with_xpath = driver.find_element(By.XPATH, "/html/body/div/form")</p>
+<p class="scriptCode"> login_form_with_xpath = driver.find_element(By.XPATH, "/html/body/div/form")</p>
 </div>
 
 * Xpath có thể thực hiện luồng hai chiều có nghĩa là truyền tải có thể là cả hai cách từ cha mẹ đến con và ngược lại.
@@ -73,7 +73,7 @@ Xpath có thể được tạo bằng các phương pháp sau:
 ##### Syntax 
 <div class="myDiv" style="color:black; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
 
-<p style="color:black; font-size:15px;"> login_form_with_xpath = driver.find_element(By.XPATH, "//table/tbody/tr[2]/td[2]")</p>
+<p class="scriptCode"> login_form_with_xpath = driver.find_element(By.XPATH, "//table/tbody/tr[2]/td[2]")</p>
 </div>
 
 #### Child to parent
@@ -81,7 +81,7 @@ Xpath có thể được tạo bằng các phương pháp sau:
 ##### Syntax 
 <div class="myDiv" style="color:black; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
 
-<p style="color:black; font-size:12px;"> login_form_with_xpath = driver.find_element(By.XPATH, "//form[@id='loginForm']/parent::div")</p>
+<p class="scriptCode"> login_form_with_xpath = driver.find_element(By.XPATH, "//form[@id='loginForm']/parent::div")</p>
 </div>
 
 ##### Với bài viết này mình đã hướng dẫn các bạn về Xpath trong Selenium!
