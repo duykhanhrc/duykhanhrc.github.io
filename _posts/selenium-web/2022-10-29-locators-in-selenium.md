@@ -43,21 +43,21 @@ Class ‘By’ được sử dụng để chỉ định thuộc tính nào đư�
 
 Các elements có thể được located như sau:
 <div class="myDiv" style="color:black; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
-<p style="font-size:11px;"> login_form = driver.find_element(By.ID, 'loginForm')</p>
+<p class="scriptCode"> login_form = driver.find_element(By.ID, 'loginForm')</p>
 
-<p style="font-size:11px;"> username = driver.find_element(By.NAME, 'username')</p>
+<p class="scriptCode"> username = driver.find_element(By.NAME, 'username')</p>
 
-<p style="font-size:11px;"> login_form_with_xpath = driver.find_element(By.XPATH, "//form[@id='loginForm']")</p>
+<p class="scriptCode"> login_form_with_xpath = driver.find_element(By.XPATH, "//form[@id='loginForm']")</p>
 
-<p style="font-size:11px;"> continue_link = driver.find_element(By.LINK_TEXT, 'Continue')</p>
+<p class="scriptCode"> continue_link = driver.find_element(By.LINK_TEXT, 'Continue')</p>
 
-<p style="font-size:11px;"> partial_continue_link = driver.find_element(By.PARTIAL_LINK_TEXT, 'Conti')</p>
+<p class="scriptCode"> partial_continue_link = driver.find_element(By.PARTIAL_LINK_TEXT, 'Conti')</p>
 
-<p style="font-size:11px;"> heading1 = driver.find_element(By.TAG_NAME, 'h1')</p>
+<p class="scriptCode"> heading1 = driver.find_element(By.TAG_NAME, 'h1')</p>
 
-<p style="font-size:11px;"> content_with_class_name = driver.find_element(By.CLASS_NAME, 'content')</p>
+<p class="scriptCode"> content_with_class_name = driver.find_element(By.CLASS_NAME, 'content')</p>
 
-<p style="font-size:11px;"> content_with_css_selectors = driver.find_element(By.CSS_SELECTOR, 'p.content')</p>
+<p class="scriptCode"> content_with_css_selectors = driver.find_element(By.CSS_SELECTOR, 'p.content')</p>
 </div>
 
 ##### Với các dự án lớn, mình recommend sử dụng Xpath để có được hiệu suất tốt nhất khi làm việc.

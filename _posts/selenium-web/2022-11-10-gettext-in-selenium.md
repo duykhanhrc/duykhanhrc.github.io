@@ -20,9 +20,9 @@ Trước hết, chúng ta cần locate element với sự trợ giúp của bấ
 #### Syntax:
 
 
-<div class="myDiv" style="color:green; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
-  <p>WebElement getTextElement=driver.findElement(By.xpath("//h1"));</p>
-  <p>String text= getTextElement.getText();</p>
+<div class="myDiv" style="color:green; display: table; background-color:rgb(238,238,238);text-align: left; padding:15px;">
+  <p class="scriptCode">WebElement getTextElement=driver.findElement(By.xpath("//h1"));</p>
+  <p class="scriptCode">String text= getTextElement.getText();</p>
 </div>
   
 
