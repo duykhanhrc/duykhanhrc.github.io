@@ -22,7 +22,7 @@ Với hàm getTitle(), ta nhận được title của 1 page.
   <p>getTitlePage = driver.getTitle();</p>
 </div>
   
-Với syntax đơn giản, chúng ta có thể lấy được tiêu đề của trang Homepage web (<a href="https://seniorautomationtest.com/">seniorautomationtest.com</a>) là 'Home | Senior Automation Test'
+Với syntax đơn giản, chúng ta có thể lấy được tiêu đề của trang Homepage web (<a href="https://seniorautomationtest.com/">seniorautomationtest.com</a>) là 'Home Senior Automation Test'
 
 <div>
     <p style=" text-align: center; ">Chúc các bạn học tập tốt!</p>
