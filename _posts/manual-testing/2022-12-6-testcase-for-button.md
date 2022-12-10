@@ -30,7 +30,7 @@ Các bạn có thể tham khảo để áp dụng vào project của mình nhé!
 * Kiểm tra văn bản của nút có thể đọc được hay không bằng cách xác minh kích thước văn bản của nút.
 * Xác minh màu văn bản của nút sẽ hiển thị trên nút có phù hợp với design hay không.
 * Xác minh phông chữ được cung cấp bởi nhà thiết kế có thực hiện hay không.
-* Xác minh nút refesh sẽ đặt giá trị mặc định cho tất cả các field hay không.
+* Xác minh nút refresh sẽ đặt giá trị mặc định cho tất cả các field hay không.
 
 <div>
     <p style=" text-align: center; ">Chúc các bạn học tập tốt!</p>
