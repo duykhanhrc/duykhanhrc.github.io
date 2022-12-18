@@ -25,8 +25,8 @@ Với bài blog này chúng ta sẽ hiểu về Implicit Wait và Explicit Wait 
 
 ##### Syntax:
 
-<div class="myDiv" style="color:green; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 40px;">
-  <p>driver.manage().timeouts().implicitlyWait(TimeOut, TimeUnit.SECONDS);</p>
+<div class="myDiv" style="color:green; display: table; background-color:rgb(238,238,238);text-align: left;padding:15px 5px;">
+  <p style='font-size: 15px;'>driver.manage().timeouts().implicitlyWait(TimeOut, TimeUnit.SECONDS);</p>
 </div>
 
 * TimeOut được để mặc định là 0, và khi chúng ta cài đặt TimeOut, trình điều khiển web sẽ chờ đợi trong khoảng thời gian TimeOut đó trước khi đưa ra ngoại lệ
@@ -40,8 +40,8 @@ Với bài blog này chúng ta sẽ hiểu về Implicit Wait và Explicit Wait 
 
 ##### Syntax:
 
-<div class="myDiv" style="color:green; display: table; background-color:rgb(238,238,238);text-align: center;padding:15px 40px;">
-  <p>WebDriverWait wait=new WebDriverWait(WebDriveReference,TimeOut);</p>
+<div class="myDiv" style="color:green; display: table; background-color:rgb(238,238,238);text-align: center;padding:15px 5px;font-size: 5px;">
+  <span style='font-size: 15px;'>WebDriverWait wait=new WebDriverWait(WebDriveReference,TimeOut);</span>
 </div>
 
 (Lưu ý : `Explicit Wait` chỉ được áp dụng cho phần tử nào được chỉ định.
