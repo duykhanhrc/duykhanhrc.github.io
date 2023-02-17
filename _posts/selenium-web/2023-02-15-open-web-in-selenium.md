@@ -22,7 +22,7 @@ Sau đó đưa file vào project của bạn.
 
 <div class="scriptCode">
   <p>from selenium import webdriver</p>
-  <p>driver = webdriver.Firefox()</p>
+  <p>driver = webdriver.Chrome()</p>
   <p>driver.get("http://www.seniorautomationtest.com")</p>
 </div>
 
